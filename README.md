@@ -1,2 +1,4 @@
 # Louis-Practice-Python
-Python practical work exercises at school by Louis.
+
+## Purpose
+Python practical work exercises at school by Louis 🚀
